@@ -1,6 +1,6 @@
 # Welcome to My Open Source AI Hub
 
-Welcome to my new GitHub account dedicated to **open source software** and the **democratization of AI access** around the globe via Singularity Research Labs (a collection of the brightest minds across the world including ex-Google, Harvard, MIT, Cambridge etc.). I've put repositories on here that I have been working on over the last 2 years. 
+Welcome to my GitHub account dedicated to **open source software** and the **democratization of AI access** around the globe via Singularity Research Labs (a collection of the brightest minds across the world including ex-Google, Harvard, MIT, Cambridge etc.). I've put repositories on here that I have been working on over the last 2+ years. 
 
 ---
 ### About Me
