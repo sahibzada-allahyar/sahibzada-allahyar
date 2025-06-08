@@ -5,7 +5,7 @@ Welcome to my GitHub account dedicated to **open source software** and the **dem
 ---
 ### About Me
 
-- **Name:** Sahibzada A. (Senior AI Engineer @ Singularity Research Labs)
+- **Name:** Sahibzada A.
 - **Alma Mater:** Cambridge University 
 
 I am passionate about ensuring that **cutting-edge AI** is accessible to everyone, including underprivileged communities. My repositories here are the culmination of the last two years of research, development, and collaboration.
