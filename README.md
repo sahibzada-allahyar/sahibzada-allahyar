@@ -10,7 +10,9 @@ Welcome to my GitHub account dedicated to **open source software** and the **dem
 
 I am passionate about ensuring that **cutting-edge AI** is accessible to everyone, including underprivileged communities. My repositories here are the culmination of the last two years of research, development, and collaboration.
 
-I also achieved the highest score in the world theoretical physics entrance exam (100% raw score on GRE Physics).
+I achieved the highest score in the world theoretical physics entrance exam (100% raw score on GRE Physics). 
+
+I studied theoretical physics at Cambridge University. 
 
 ---
 ### Our Mission at Singularity Research Labs
