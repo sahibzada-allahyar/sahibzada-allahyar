@@ -43,7 +43,6 @@ We’re building an inclusive, diverse, and globally distributed team of AI enth
 - **Email**: [sahibzada@singularityresearchlabs.com](mailto:sahibzada@singularityresearchlabs.com)  
 
 Feel free to reach out with questions, ideas, or proposals. Let’s **shape the future of open source AI** together!
-Our website is [https://www.singularityresearchlabs.com](https://www.singularityresearchlabs.com)
 ---
 
 <sub>© 2025 Sahibzada A • Senior AI Engineer • Singularity Research Labs</sub>
