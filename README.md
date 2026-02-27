@@ -10,7 +10,7 @@ Welcome to my GitHub account dedicated to **open source software** and the **dem
 ### About Me
 
 - **Name:** Sahibzada A.
-- **Alma Mater:** Cambridge University 
+- **Education:** Cambridge University 
 
 I am passionate about ensuring that **cutting-edge AI** is accessible to everyone, including underprivileged communities. My repositories here are the culmination of the last two years of research, development, and collaboration.
 
@@ -41,7 +41,6 @@ We’re building an inclusive, diverse, and globally distributed team of AI enth
 ### Get in Touch
 
 - **Email**: [sahibzada@singularityresearchlabs.com](mailto:sahibzada@singularityresearchlabs.com)  
-- **LinkedIn**: (https://www.linkedin.com/in/sahibal/)
 
 Feel free to reach out with questions, ideas, or proposals. Let’s **shape the future of open source AI** together!
 Our website is [https://www.singularityresearchlabs.com](https://www.singularityresearchlabs.com)
