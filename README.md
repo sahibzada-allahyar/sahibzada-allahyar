@@ -43,21 +43,9 @@ I've **authored 3,000+ starred open-source projects from scratch** — these are
   <img src="https://img.shields.io/badge/Hermes%20Agent-2%20PRs%20merged-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### 🦞 [openclaw/openclaw](https://github.com/openclaw/openclaw)
-| PR | Contribution | Type |
-|----|--------------|------|
-| [#90607](https://github.com/openclaw/openclaw/pull/90607) | `fix(voice-call)` track Twilio streams after connect | ✅ Authored |
-| [#90566](https://github.com/openclaw/openclaw/pull/90566) | `fix(agents)` warn on cron announce skip | ✅ Authored |
-| [#90489](https://github.com/openclaw/openclaw/pull/90489) | `fix(sessions)` clarify cross-agent visibility guidance | ✅ Authored |
-| [#90030](https://github.com/openclaw/openclaw/pull/90030) | `fix(memory-core)` skip qmd zero-hit search sync | ✅ Authored |
-| [#90812](https://github.com/openclaw/openclaw/pull/90812) | `fix(voice-call)` preserve live Twilio streams in stale reaper | 🤝 Co-authored |
-| [#95707](https://github.com/openclaw/openclaw/pull/95707) | `fix(synology-chat)` remove duplicate local deliver timeout | 🤝 Authorship preserved |
+**🦞 [openclaw/openclaw](https://github.com/openclaw/openclaw) — Links to PR:** [#90607](https://github.com/openclaw/openclaw/pull/90607) · [#90566](https://github.com/openclaw/openclaw/pull/90566) · [#90489](https://github.com/openclaw/openclaw/pull/90489) · [#90030](https://github.com/openclaw/openclaw/pull/90030) · [#90812](https://github.com/openclaw/openclaw/pull/90812) · [#95707](https://github.com/openclaw/openclaw/pull/95707)
 
-### 🧠 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-| PR | Contribution | Type |
-|----|--------------|------|
-| [#56928](https://github.com/NousResearch/hermes-agent/pull/56928) | `fix(desktop)` configured working directory overrides stale workspace cwd | 🤝 Authorship preserved |
-| [#39485](https://github.com/NousResearch/hermes-agent/pull/39485) | `fix(line)` map inbound message types to correct MessageType | 🤝 Co-authored |
+**🧠 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — Links to PR:** [#56928](https://github.com/NousResearch/hermes-agent/pull/56928) · [#39485](https://github.com/NousResearch/hermes-agent/pull/39485)
 
 ---
 
