@@ -1,3 +1,5 @@
+Personal website: [Sahibzada Allahyar](https://sahibzada-allahyar.github.io)
+
 <!-- ══════════════════════ HEADER ══════════════════════ -->
 <a href="https://github.com/sahibzada-allahyar">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2563eb,100:0ea5e9&height=200&section=header&text=Sahibzada%20Allahyar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Theoretical%20Physicist%20·%20AI%20Engineer%20·%20Open%20Source%20Builder&descAlignY=58&descSize=18" alt="header"/>
