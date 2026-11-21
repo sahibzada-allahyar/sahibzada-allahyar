@@ -27,7 +27,11 @@ Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.gith
 
 ## Publications
 
-[arXiv:2610.02762](https://arxiv.org/abs/2610.02762). 4 other publications pending peer review in tier 1 journals.
+- [arXiv:2610.02762](https://arxiv.org/abs/2610.02762)
+- [Infinitely many small prime gaps of 180 or less](https://doi.org/10.5281/zenodo.24430219). Sahibzada Allahyar and Theodoros Yianni. Zenodo preprint, with a Lean 4 verification ([paper, proof and checks](https://github.com/sahibzada-allahyar/math/tree/main/preprint/prime-gaps-180)).
+- [The first lower bound improvement on the unrestricted circuit complexity of 3-SAT. A step towards P ≠ NP](https://zenodo.org/records/23925452). Theodoros Yianni and Sahibzada Allahyar (equal first authors). Zenodo preprint, with Lean proofs ([proof packages](https://github.com/sahibzada-allahyar/math/tree/main/lean)).
+- [From theta lifts to zeta zeros](https://github.com/sahibzada-allahyar/math/blob/main/preprint/alpoge-riemann/reconstruction.pdf). Sahibzada Allahyar. Expository manuscript on Levent Alpöge's announced argument for the Riemann hypothesis.
+- 4 other publications pending peer review in tier 1 journals.
 
 **Recent writing:**  
 https://fastino.ai/blog/training-glide-sota-decision-model  
