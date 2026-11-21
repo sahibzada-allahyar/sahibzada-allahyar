@@ -34,6 +34,8 @@ Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.gith
 - 4 other publications pending peer review in tier 1 journals.
 
 **Recent writing:**  
+https://fastino.ai/blog/recurrent-looped-transformers-glide  
+https://fastino.ai/blog/glide-decision-model-family  
 https://fastino.ai/blog/training-glide-sota-decision-model  
 https://fastino.ai/blog/introducing-glide-the-first-thinking-decision-model
 
