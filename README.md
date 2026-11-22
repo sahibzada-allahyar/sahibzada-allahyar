@@ -3,7 +3,7 @@
 **Trained Multiple SOTA Frontier Models**  
 **Distinguished Research Scientist at Fastino Labs**, (backed by Khosla Ventures and Microsoft Ventures.)  
 Theoretical Physics @ **Cambridge University**,  
-**3,200+ Stars on GitHub** on projects related to Recursive self-improvement, formal verification and SOTA agents.
+**3,200+ Stars on GitHub** on projects related to Recursive self-improvement, formal verification and SOTA Frontier Model Training.
 
 Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.github.io/)
 
