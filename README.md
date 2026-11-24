@@ -32,7 +32,13 @@ Theoretical Physics @ **Cambridge University**,
 
 **Trained multiple frontier models that beat Frontier Models from OpenAI, Google DeepMind, and Microsoft Research on Artificial Analysis.** Independently evaluated on hidden benchmarks by the most trusted benchmarking authority in AI, Artificial Analysis. [How to Train a SOTA Frontier Decision Model](https://fastino.ai/blog/training-glide-sota-decision-model).
 
-<img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/artificial-analysis.webp" width="300" alt="Artificial Analysis Decision Index: GLiDE v1.2 scores 73, ahead of Gemini Decision 1 (66), Microsoft Decision-1 (62) and GPT-6 Luna (60)."/> <img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/decision-index.png" width="340" alt="Decision Index chart with Fastino GLiDE v1.2 first."/>
+<table>
+<tr>
+<td valign="top" width="260"><img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/artificial-analysis.webp" alt="Artificial Analysis Decision Index: GLiDE v1.2 scores 73, ahead of Gemini Decision 1 (66), Microsoft Decision-1 (62) and GPT-6 Luna (60)."/><br/><sub>Screenshot of the official post from Artificial Analysis.</sub></td>
+<td valign="top" width="340"><img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/decision-index.png" alt="Decision Index chart with Fastino GLiDE v1.2 first."/><br/><sub>Screenshot from the official Hugging Face website (all evaluations done independently by Hugging Face on their hidden unknown benchmarks).</sub></td>
+<td valign="top" width="340"><img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/glide-27b.png" alt="Decision Index, 27B and larger, with Fastino GLiDE v1.2 first overall."/><br/><sub>Screenshot from the official Hugging Face website (all evaluations done independently by Hugging Face on their hidden unknown benchmarks).</sub></td>
+</tr>
+</table>
 
 ## Publications
 
