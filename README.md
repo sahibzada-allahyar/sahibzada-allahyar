@@ -18,8 +18,8 @@ Theoretical Physics @ **Cambridge University**,
 
 ## Honours
 
-- **Proof of a breakthrough in the P vs NP Millennium Prize Problem** that eluded top mathematicians and computer scientists for 55 years. [Preprint](https://zenodo.org/records/23925452).
-- **Breakthrough on the Twin Prime Conjecture** and an improvement on a result worked on by Terence Tao, Fields Medalist James Maynard, OpenAI etc. [Preprint](https://doi.org/10.5281/zenodo.24430219).
+- **Proof of a breakthrough in the P vs NP Millennium Prize Problem** that eluded top mathematicians and computer scientists for 55 years. [Announcement](https://x.com/singularity_bly/status/2117371996325482515).
+- **Breakthrough on the Twin Prime Conjecture** and an improvement on a result worked on by Terence Tao, Fields Medalist James Maynard, OpenAI etc. [Announcement](https://x.com/singularity_bly/status/2124291463101981164).
 - **Trained a Frontier Model (GLiDE)** that beat Frontier Models from OpenAI, Google DeepMind, and Microsoft Research.
 - **Achieved highest score in the world** on the theoretical physics entrance exam (GRE Physics, 100% raw score, 990/990 scaled score). September 2025.
 - **Gold in the British Mathematical Olympiad** (BMO)
@@ -48,11 +48,7 @@ Theoretical Physics @ **Cambridge University**,
 - [From theta lifts to zeta zeros](https://github.com/sahibzada-allahyar/math/blob/main/preprint/alpoge-riemann/reconstruction.pdf). Sahibzada Allahyar. Expository manuscript on Levent Alpöge's announced argument for the Riemann hypothesis.
 - 4 other publications pending peer review in tier 1 journals.
 
-**Recent writing:**  
-https://fastino.ai/blog/recurrent-looped-transformers-glide  
-https://fastino.ai/blog/glide-decision-model-family  
-https://fastino.ai/blog/training-glide-sota-decision-model  
-https://fastino.ai/blog/introducing-glide-the-first-thinking-decision-model
+Published the first human readable proof of the Riemann Hypothesis within hours of the Lean being released. Gained significant recognition from the AI and math community for this effort. [Announcement](https://x.com/singularity_bly/status/2123814771900162312).
 
 ## Open source
 
