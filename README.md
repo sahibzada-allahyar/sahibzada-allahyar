@@ -4,7 +4,7 @@
   <a href="https://sahibzada-allahyar.github.io/"><img height="64" alt="Visit my personal website" src="https://img.shields.io/badge/VISIT%20MY%20PERSONAL%20WEBSITE%20%E2%86%92-sahibzada--allahyar.github.io-2563eb?style=for-the-badge&labelColor=111827"/></a>
 </p>
 
-**Trained Multiple SOTA Frontier Models**  
+**Researching Artificial Superintelligence**  
 **Distinguished Research Scientist at Fastino Labs**, (backed by Khosla Ventures and Microsoft Ventures.)  
 Theoretical Physics @ **Cambridge University**,  
 **3,200+ Stars on GitHub** on projects related to Recursive self-improvement, formal verification and SOTA Frontier Model Training.
