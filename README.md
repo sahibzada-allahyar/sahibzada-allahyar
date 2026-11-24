@@ -25,7 +25,7 @@ Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.gith
 
 **Creator of the Fastino GLiDE decision model.**
 
-**Trained multiple SOTA frontier models.** These models **beat models from top frontier labs**, including OpenAI's Decision API, Microsoft's decision model, Baseten's Mammoth-1, Perplexity's Decider, and Cloudflare's Clef. [How to Train a SOTA Frontier Decision Model](https://fastino.ai/blog/training-glide-sota-decision-model).
+**Trained multiple frontier models that beat Frontier Models from OpenAI, Google DeepMind, and Microsoft Research on Artificial Analysis.** Independently evaluated on hidden benchmarks by the most trusted benchmarking authority in AI, Artificial Analysis. [How to Train a SOTA Frontier Decision Model](https://fastino.ai/blog/training-glide-sota-decision-model).
 
 ## Publications
 
