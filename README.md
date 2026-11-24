@@ -5,6 +5,8 @@
 Theoretical Physics @ **Cambridge University**,  
 **3,200+ Stars on GitHub** on projects related to Recursive self-improvement, formal verification and SOTA Frontier Model Training.
 
+**[Subscribe to my Substack →](https://substack.com/@singularityresearchlabs)**
+
 Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.github.io/)
 
 ## Academic experience
