@@ -1,7 +1,7 @@
 # Sahibzada Allahyar
 
 <p align="center">
-  <a href="https://sahibzada-allahyar.github.io/"><img height="64" alt="Visit my personal website" src="https://img.shields.io/badge/VISIT%20MY%20PERSONAL%20WEBSITE%20%E2%86%92-sahibzada--allahyar.github.io-2563eb?style=for-the-badge&labelColor=111827"/></a>
+  <a href="https://sahibzada-allahyar.github.io/"><img width="760" alt="Visit my personal website: sahibzada-allahyar.github.io" src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar/main/assets/visit-website.svg"/></a>
 </p>
 
 **Researching Artificial Superintelligence**  
