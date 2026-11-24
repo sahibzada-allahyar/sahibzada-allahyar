@@ -1,13 +1,15 @@
 # Sahibzada Allahyar
 
+<p align="center">
+  <a href="https://sahibzada-allahyar.github.io/"><img height="64" alt="Visit my personal website" src="https://img.shields.io/badge/VISIT%20MY%20PERSONAL%20WEBSITE%20%E2%86%92-sahibzada--allahyar.github.io-2563eb?style=for-the-badge&labelColor=111827"/></a>
+</p>
+
 **Trained Multiple SOTA Frontier Models**  
 **Distinguished Research Scientist at Fastino Labs**, (backed by Khosla Ventures and Microsoft Ventures.)  
 Theoretical Physics @ **Cambridge University**,  
 **3,200+ Stars on GitHub** on projects related to Recursive self-improvement, formal verification and SOTA Frontier Model Training.
 
 **[Subscribe to my Substack →](https://substack.com/@singularityresearchlabs)**
-
-Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.github.io/)
 
 ## Academic experience
 
@@ -16,6 +18,9 @@ Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.gith
 
 ## Honours
 
+- **Proof of a breakthrough in the P vs NP Millennium Prize Problem** that eluded top mathematicians and computer scientists for 55 years. [Preprint](https://zenodo.org/records/23925452).
+- **Breakthrough on the Twin Prime Conjecture** and an improvement on a result worked on by Terence Tao, Fields Medalist James Maynard, OpenAI etc. [Preprint](https://doi.org/10.5281/zenodo.24430219).
+- **Trained a Frontier Model (GLiDE)** that beat Frontier Models from OpenAI, Google DeepMind, and Microsoft Research.
 - **Achieved highest score in the world** on the theoretical physics entrance exam (GRE Physics, 100% raw score, 990/990 scaled score). September 2025.
 - **Gold in the British Mathematical Olympiad** (BMO)
 - **Queens' College, Cambridge University Scholarship**
@@ -26,6 +31,8 @@ Personal website: [sahibzada-allahyar.github.io](https://sahibzada-allahyar.gith
 **Creator of the Fastino GLiDE decision model.**
 
 **Trained multiple frontier models that beat Frontier Models from OpenAI, Google DeepMind, and Microsoft Research on Artificial Analysis.** Independently evaluated on hidden benchmarks by the most trusted benchmarking authority in AI, Artificial Analysis. [How to Train a SOTA Frontier Decision Model](https://fastino.ai/blog/training-glide-sota-decision-model).
+
+<img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/artificial-analysis.webp" width="300" alt="Artificial Analysis Decision Index: GLiDE v1.2 scores 73, ahead of Gemini Decision 1 (66), Microsoft Decision-1 (62) and GPT-6 Luna (60)."/> <img src="https://raw.githubusercontent.com/sahibzada-allahyar/sahibzada-allahyar.github.io/main/images/decision-index.png" width="340" alt="Decision Index chart with Fastino GLiDE v1.2 first."/>
 
 ## Publications
 
